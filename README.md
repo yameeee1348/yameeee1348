@@ -21,20 +21,6 @@
   <img src="https://img.shields.io/badge/AI%20Hardware-607D8B?style=for-the-badge" alt="AI Hardware">
 </div>
 
-## GitHub Activity
-<p align="center">
-  <a href="https://github.com/yameeee1348">
-    <img height="170"
-      src="https://github-readme-stats.vercel.app/api?username=yameeee1348&show_icons=true&theme=default&hide_border=true&cache_seconds=86400&v=2"
-      alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/yameeee1348">
-    <img height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yameeee1348&layout=compact&theme=default&hide_border=true&cache_seconds=86400&v=2"
-      alt="Top Languages" />
-  </a>
-</p>
-
 ## Core Projects
 참여한 핵심 레포지토리 및 주요 역할이다.
 
