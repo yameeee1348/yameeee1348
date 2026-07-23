@@ -43,7 +43,7 @@
 - **Summary**: AXI4-Lite BUS로 제어 가능한 SPI/I2C Peripheral IP를 설계하고, memory-mapped register 기반으로 통신 동작을 제어할 수 있도록 구현했다.
 - **My Role**: AXI4-Lite slave register 구조 설계, SPI CPOL/CPHA mode FSM 구현, I2C START-ADDR-DATA-ACK-STOP timing 구현, UVM 기반 protocol 검증
 - **Keywords**: `AXI4-Lite` `SPI` `I2C` `UVM` `VCS` `Verdi` `FPGA`
-- **More**: [RTL](https://github.com/yameeee1348/Ondevice_RTL) / [UVM](https://github.com/yameeee1348/Ondevice_UVM)
+- **More**: 
 
 ### 3. Multi-cycle RV32I MCU
 <div align="center">
@@ -53,7 +53,7 @@
 - **Summary**: RV32I CPU를 Multi-cycle 구조로 확장하고, APB BUS를 통해 RAM, GPO, GPIO, FND, UART peripheral을 제어하는 MCU 형태로 구현했다.
 - **My Role**: IF/ID/EX/MEM/WB state 기반 control path 설계, APB Master 구현, memory map 및 peripheral address decoding 구성, C/Assembly 기반 보드 동작 검증
 - **Keywords**: `RV32I` `Multi-cycle CPU` `APB` `GPIO` `UART` `C` `FPGA`
-- **More**: [Ondevice_RTL](https://github.com/yameeee1348/Ondevice_RTL)
+- **More**: 
 
 ### 4. FPGA 기반 AI 포트홀 탐지 시스템
 <div align="center">
@@ -63,7 +63,7 @@
 - **Summary**: 도로 영상에서 포트홀을 탐지하고, 탐지 결과를 FPGA 출력 시스템과 연동해 경고 신호로 표시하는 임베디드 AI 시스템이다.
 - **My Role**: AI 모델 구조 분석, OpenCV 기반 전처리, FPGA 리소스 제약을 고려한 경량화 구조 검토, 탐지 결과와 하드웨어 출력 timing 검증
 - **Keywords**: `FPGA` `AI Hardware` `OpenCV` `CNN` `Image Processing` `UART/GPIO`
-- **More**: [M.A.T.S. Organization](https://github.com/kccistcs1st)
+- **More**: 
 
 
 ## Repository Index
