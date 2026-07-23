@@ -63,7 +63,7 @@
 - **Summary**: 도로 영상에서 포트홀을 탐지하고, 탐지 결과를 FPGA 출력 시스템과 연동해 경고 신호로 표시하는 임베디드 AI 시스템이다.
 - **My Role**: AI 모델 구조 분석, OpenCV 기반 전처리, FPGA 리소스 제약을 고려한 경량화 구조 검토, 탐지 결과와 하드웨어 출력 timing 검증
 - **Keywords**: `FPGA` `AI Hardware` `OpenCV` `CNN` `Image Processing` `UART/GPIO`
-- **More**: 
+- **More**: [FPGA_POTHOLE_DETECT](https://github.com/yameeee1348/Ondevice_RTL/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%EC%B5%9C%EC%A2%85%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C_20192623_%EC%9C%A4%EC%A0%95%EC%9B%90.pdf)
 
 
 ## Repository Index
