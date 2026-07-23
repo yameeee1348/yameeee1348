@@ -43,7 +43,7 @@
 - **Summary**: AXI4-Lite BUS로 제어 가능한 SPI/I2C Peripheral IP를 설계하고, memory-mapped register 기반으로 통신 동작을 제어할 수 있도록 구현했다.
 - **My Role**: AXI4-Lite slave register 구조 설계, SPI CPOL/CPHA mode FSM 구현, I2C START-ADDR-DATA-ACK-STOP timing 구현, UVM 기반 protocol 검증
 - **Keywords**: `AXI4-Lite` `SPI` `I2C` `UVM` `VCS` `Verdi` `FPGA`
-- **More**: [AXI_SPI](https://github.com/yameeee1348/Ondevice_RTL/tree/main/AXI_SPI) / [AXI_I2C](https://github.com/yameeee1348/Ondevice_RTL/tree/main/AXI_I2C)
+- **More**: [AXI_SPI](https://github.com/yameeee1348/Ondevice_RTL/tree/main/AXI_SPI) / [AXI_I2C](https://github.com/yameeee1348/Ondevice_RTL/tree/main/AXI_I2C) / [AXI_SPI_UVM](https://github.com/yameeee1348/Ondevice_UVM/tree/main/0504_AXI_SPI_UVM)
 
 ### 3. Multi-cycle RV32I MCU
 <div align="center">
