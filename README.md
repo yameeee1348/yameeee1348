@@ -43,7 +43,7 @@
 - **Summary**: AXI4-Lite BUS로 제어 가능한 SPI/I2C Peripheral IP를 설계하고, memory-mapped register 기반으로 통신 동작을 제어할 수 있도록 구현했다.
 - **My Role**: AXI4-Lite slave register 구조 설계, SPI CPOL/CPHA mode FSM 구현, I2C START-ADDR-DATA-ACK-STOP timing 구현, UVM 기반 protocol 검증
 - **Keywords**: `AXI4-Lite` `SPI` `I2C` `UVM` `VCS` `Verdi` `FPGA`
-- **More**: 
+- **More**: [AXI_SPI](https://github.com/yameeee1348/Ondevice_RTL/tree/main/AXI_SPI) / [AXI_I2C](https://github.com/yameeee1348/Ondevice_RTL/tree/main/AXI_I2C)
 
 ### 3. Multi-cycle RV32I MCU
 <div align="center">
@@ -53,7 +53,7 @@
 - **Summary**: RV32I CPU를 Multi-cycle 구조로 확장하고, APB BUS를 통해 RAM, GPO, GPIO, FND, UART peripheral을 제어하는 MCU 형태로 구현했다.
 - **My Role**: IF/ID/EX/MEM/WB state 기반 control path 설계, APB Master 구현, memory map 및 peripheral address decoding 구성, C/Assembly 기반 보드 동작 검증
 - **Keywords**: `RV32I` `Multi-cycle CPU` `APB` `GPIO` `UART` `C` `FPGA`
-- **More**: 
+- **More**: [RV32I](https://github.com/yameeee1348/Ondevice_RTL/tree/main/RV32I)
 
 ### 4. FPGA 기반 AI 포트홀 탐지 시스템
 <div align="center">
